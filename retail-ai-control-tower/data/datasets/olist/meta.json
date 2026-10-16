@@ -1,0 +1,19 @@
+{
+  "name": "Olist e-commerce (default)",
+  "kind": "olist",
+  "default": true,
+  "created": "2026-10-16T22:54:10",
+  "description": "Brazilian E-Commerce Public Dataset by Olist \u2014 ~100k orders, 2016\u20132018.",
+  "tables": {
+    "orders": 99441,
+    "order_items": 112650,
+    "order_payments": 103886,
+    "order_reviews": 99224,
+    "customers": 99441,
+    "sellers": 3095,
+    "products": 32951,
+    "geolocation": 19015,
+    "category_translation": 71,
+    "order_facts": 99441
+  }
+}

@@ -1,0 +1,7 @@
+.env
+.venv/
+__pycache__/
+logs/
+data/datasets/*
+!data/datasets/olist/
+data/active_dataset.txt

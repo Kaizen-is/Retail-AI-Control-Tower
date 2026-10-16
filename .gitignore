@@ -1,0 +1,26 @@
+# Secrets and local settings (never commit)
+.env
+**/.env
+
+# Python
+.venv/
+venv/
+__pycache__/
+*.pyc
+
+# App runtime files
+**/logs/
+retail-ai-control-tower/data/active_dataset.txt
+retail-ai-control-tower/data/datasets/*
+!retail-ai-control-tower/data/datasets/olist/
+
+# Local helper scripts
+push_to_github.bat
+push_status.txt
+push_log.txt
+
+# OS / Office temp files
+~$*
+.DS_Store
+Thumbs.db
+desktop.ini
