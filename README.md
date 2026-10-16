@@ -34,7 +34,6 @@ The `.env` file is never committed; `.env.example` is the template.
 | What-if | Change a lever and see the effect on all KPIs |
 | Data manager | Upload CSV / Excel / Parquet / JSON, review and edit it like a spreadsheet, read-only SQL |
 | Explorer | Instant dashboard for any table + AI insights |
-| Ask AI | Plain-English questions → OpenAI writes read-only SQL → table, chart and explanation |
 
 More details: [`retail-ai-control-tower/README.md`](retail-ai-control-tower/README.md).
 
